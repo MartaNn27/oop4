@@ -1,0 +1,19 @@
+1 computer
+model:intel
+count: 0
+ price: -858993460
+2 computer
+model:
+count: 0
+ price: -858993460
+3 computer
+model:
+count: 0
+ price: -858993460
+processor: 1
+processor: 2
+processor: 3
+hard drive: 1
+amount of memory: -858993460hard drive: 2
+amount of memory: -858993460hard drive: 3
+amount of memory: -858993460
